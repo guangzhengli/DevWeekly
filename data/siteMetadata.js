@@ -1,21 +1,20 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'Dev Weekly',
+  author: 'guangzhengli',
+  headerTitle: 'Dev Weekly',
+  description:
+    'Hello and welcome to Developer Weekly! I am excited to share with you the latest updates on trending projects from GitHub and Hacker News',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://devweekly.pages.dev',
+  siteRepo: 'https://github.com/guangzhengli/DevWeekly',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'iguangzhengli@gmail.com',
+  github: 'https://github.com/guangzhengli',
+  twitter: 'https://twitter.com/DevDevWeekly',
+  youtube: 'https://www.youtube.com/@devweekly',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
@@ -71,9 +70,9 @@ const siteMetadata = {
       label: '', // label (optional): Comment 💬
       // theme example: github-light, github-dark, preferred-color-scheme
       // github-dark-orange, icy-dark, dark-blue, photon-dark, boxy-light
-      theme: '',
+      theme: 'github-light',
       // theme when dark mode
-      darkTheme: '',
+      darkTheme: 'icy-dark',
     },
     disqusConfig: {
       // https://help.disqus.com/en/articles/1717111-what-s-a-shortname
