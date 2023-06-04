@@ -1,4 +1,5 @@
 /* eslint-disable import/no-anonymous-default-export */
+export const config = { runtime: 'edge' }
 export default async (req, res) => {
   const { email } = req.body
 

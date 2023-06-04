@@ -1,4 +1,5 @@
 import mailchimp from '@mailchimp/mailchimp_marketing'
+export const config = { runtime: 'edge' }
 
 mailchimp.setConfig({
   apiKey: process.env.MAILCHIMP_API_KEY,
