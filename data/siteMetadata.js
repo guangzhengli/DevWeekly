@@ -12,7 +12,7 @@ const siteMetadata = {
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'iguangzhengli@gmail.com',
-  github: 'https://github.com/guangzhengli',
+  github: 'https://github.com/guangzhengli/DevWeekly',
   twitter: 'https://twitter.com/DevDevWeekly',
   youtube: 'https://www.youtube.com/@devweekly',
   locale: 'en-US',
@@ -25,11 +25,6 @@ const siteMetadata = {
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
     posthogAnalyticsId: '', // posthog.init e.g. phc_5yXvArzvRdqtZIsHkEm3Fkkhm3d0bEYUXCaFISzqPSQ
-  },
-  newsletter: {
-    // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus
-    // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
   },
   comment: {
     // If you want to use a commenting system other than giscus you have to add it to the
