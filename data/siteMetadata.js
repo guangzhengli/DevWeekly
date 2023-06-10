@@ -17,12 +17,8 @@ const siteMetadata = {
   youtube: 'https://www.youtube.com/@devweekly',
   locale: 'en-US',
   analytics: {
-    // If you want to use an analytics provider you have to add it to the
-    // content security policy in the `next.config.js` file.
-    // supports plausible, simpleAnalytics, umami or googleAnalytics
-    simpleAnalytics: false, // true or false
-    umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
-    googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
+    umamiWebsiteId: 'b95bd6d5-9498-4f23-8ec5-2a0f8383ebd8', // e.g. 123e4567-e89b-12d3-a456-426614174000
+    googleAnalyticsId: 'G-29CL0ZYY85', // e.g. UA-000000-2 or G-XXXXXXX
   },
   comment: {
     // If you want to use a commenting system other than giscus you have to add it to the
