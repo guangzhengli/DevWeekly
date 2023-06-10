@@ -6,7 +6,7 @@ const siteMetadata = {
     'Hello and welcome to Developer Weekly! I am excited to share with you the latest updates on trending projects from GitHub and Hacker News',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://devweekly.pages.dev',
+  siteUrl: 'https://dev-weekly.vercel.app',
   siteRepo: 'https://github.com/guangzhengli/DevWeekly',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
