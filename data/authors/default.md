@@ -1,5 +1,5 @@
 ---
-name: Guangzheng Li
+name: Dev Weekly
 avatar: /static/images/avatar.png
 occupation: DevWeekly
 company: DevWeekly
